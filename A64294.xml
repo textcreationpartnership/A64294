@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tell-truth's answer to Tell-troth's letter to the Right Honourable the Earl of Shaftesbury in vindication of His Lordship / by as down-right an English-man as himself, without scandalous reflections.</title>
+            <author>Tell-truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64294</idno>
+            <idno type="STC">Wing T623B</idno>
+            <idno type="STC">ESTC R37880</idno>
+            <idno type="EEBO-CITATION">17150658</idno>
+            <idno type="OCLC">ocm 17150658</idno>
+            <idno type="VID">105904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1160:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tell-truth's answer to Tell-troth's letter to the Right Honourable the Earl of Shaftesbury in vindication of His Lordship / by as down-right an English-man as himself, without scandalous reflections.</title>
+                  <author>Tell-truth.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Tell-troth, Tom. --  A letter to the Earl of Shaftesbury this 9th of July, 1680.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105904:1"/>
+            <pb n="1" facs="tcp:105904:1" rendition="simple:additions"/>
+            <head>Tell-Truth's Anſwer TO TELL-TROTH's LETTER To the Right Honourable the Earl of SHAFTESBURY, In Vindication of his LORDSHIP; By as down-right an ENGLISH-MAN as himſelf, Without Scandalous REFLECTIONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have lately ſeen and peruſed a Letter in Print, to the Right Ho<g ref="char:EOLhyphen"/>nourable the Earl of <hi>Shaftesbury,</hi> from one that ſtiles himſelf <hi>Tom Tell-Troth,</hi> a downright Engliſhman. I muſt confeſs he be<g ref="char:EOLhyphen"/>gins well, and expreſſeth himſelf in very good words, to the due honour of that truly Noble Lord, as owning him to be, (as in<g ref="char:EOLhyphen"/>deed he is) a ſtout Aſſerter of the Proteſtant Religion and Intereſt; and tells us, that Monarchy and the Proteſtant Religion do ſuffer, in reſpect of the preſent Deſigns of Papiſts and Common wealths-men; but what he meant by coupling good Common-wealths-men and Papiſts together, I could not underſtand, till Reading his Letter a little farther, I quick<g ref="char:EOLhyphen"/>ly found and diſcovered that he was a Wolf in ſheeps cloathing; and it will be <hi>Strange</hi> if I do not find him to be a Jeſuite, or one as bad, before the end of this Letter.</p>
+            <p>Yet very honeſtly he in the next words tells my Lord, that Ruine and Deſolation, Confuſion and every evil work, will come ſwift upon us, (nothing more ſure) if ſome ſpeedy Remedy be not inſtantly propoſed by the wiſdom of the great Council of this Nation, (by that great Coun<g ref="char:EOLhyphen"/>cil) I ſuppoſe he means the Parliament; and therein he writes honeſtly and truely, (for I will give the Devil his due) but it is to be feared, if they do not ſit ſpeedily, it will be too late to prevent that Ruine and Deſolation he truly fore-tells is coming upon us, though I believe he writes Ironically and in a jeering way.</p>
+            <p>In the next place he comes with many words, though to little or no purpoſe, from 41, to the happy Reſtauration of the King (in which glo<g ref="char:EOLhyphen"/>rious work I am perſwaded he was no way inſtrumental) for His Maje<g ref="char:EOLhyphen"/>ſty was, thanks be to God, wonderfully reſtored to His Royal Throne by Gods Providence, and ſome worthy Inſtruments, the Earl of <hi>Shaf<g ref="char:EOLhyphen"/>tesbury</hi> being one eminent in that great work.</p>
+            <p>Then he would make a parallel between 41, to this preſent time, con<g ref="char:EOLhyphen"/>cerning the perſon of the late King, Church and Government, and that they were the Reſults of ſuch pernicious Counſels and Deſigns as are now hatching by theſe Sons of <hi>Belial,</hi> to the preſent diſturbance of our Church and Kingdom.</p>
+            <pb n="2" facs="tcp:105904:2"/>
+            <p>If there were Sons of <hi>Belial,</hi> as you ſay, and I believe there were in 41, I mean the Jeſuits and the Popes Emiſſaries; as Dr. <hi>Oates,</hi> that wor<g ref="char:EOLhyphen"/>thy perſon, and ever to be eſteem'd, hath made appear there were, thoſe I ſuppoſe are generally dead, gone to Purgatory, or ſomewhere elſe. But you ſay there are now Sons of <hi>Belial,</hi> that ſtudy all the miſchief they can to King, Church, and State. I ſuppoſe you writing ſo confidently of it, muſt be well acquainted with them, and be of their Councils, and there<g ref="char:EOLhyphen"/>fore you would do good ſervice to diſcover them, (which I would do, did I know them) if you will not, you muſt give me leave to tell you in down-right Engliſh, that you are either a Jeſuite of the Church of <hi>Rome,</hi> or a Masked Proteſtant in the Church of <hi>England;</hi> for I am a truer down-right Engliſhman, and Proteſtant, than I find you are.</p>
+            <p>In the next place, he tells us, That in Forty and after, the Papiſts ſee<g ref="char:EOLhyphen"/>ing our Church ſo well guarded with Purity of Doctrine and Faith, (that is true,) behold what Emiſſaries were ſent out, and with what cloathing to deceive: (what cloathing indeed) the Puritan is the man he names, and three perſons that are dead, and then tells us, that Arch-biſhop <hi>Laud</hi> muſt be the firſt called into queſtion, and butcher'd, for being a Papiſt, or Popiſhly inclin'd. This I deny, but muſt needs ſay, that Arch<g ref="char:EOLhyphen"/>biſhop <hi>Laud</hi> was an Eminent Aſſertor of the Rights of the Church, and a true Proteſtant, as his Learned Books againſt <hi>Fiſher</hi> the Jeſuite do declare; (for I knew Biſhop <hi>Laud</hi> I think better than you did) but by your leave Sir, as old as you are, Biſhop <hi>Laud</hi> ſuffered for other matters, as the Articles that were againſt him will inform you.</p>
+            <p>Then he comes to tell us, that the Rabble in thoſe times cried down Evil Counſellors, their deſign being to bring in Popery, and deſtroy Li<g ref="char:EOLhyphen"/>berty, (ay Liberty of the Subject) in a jeering ſcoffing way. Sir, know, it is our Birthright, and you are an unworthy man if you are againſt it, and ought never to enjoy it, but live and dye a ſlave. And then he mentions Ship-money (a huge burden) was againſt <hi>Magna Charta;</hi> ſo it was, though but ſmall in it ſelf, as alſo all other Monopolies in thoſe days, contrived by Miniſters which were conſcious of their ill deſerts, to keep off the ſitting of the Parliament, (which they knew would call them to account) for above Ten years; in which time had the Parliament ſate, it would no doubt have ſupplyed His Majeſty with much more in a legal way, and the Subjects would have been ready and willing to have paid it. But do you not remember, you old Engliſhman, (as you ſtile yourſelf in the latter part of your Letter) what became of thoſe perſons that kept off the King from His Parliament for ſo long a time? if you do not; I do: I wiſh we had not ſome ſuch perſons now adays; if we have, they muſt look for the ſame ſucceſs as they had then in the end.</p>
+            <p>A King of <hi>England</hi> in Parliament is Abſolute, and as Redoubtable as any Monarch in the world; nor did ever any King that relyed upon, and agreed with his Parliament, miſcarry. As on the other ſide, when ever baſe Flatterers, to ſerve their own ends, and to ſecure themſelves from Juſtice, have perſwaded a Prince to ſlight, grow jealous of, or be eſtranged from Parliaments; it hath always proved of fatal Conſequence to the King and Kingdom.</p>
+            <p>Pray God bleſs and preſerve his Majeſty from all Popiſh Conſpira<g ref="char:EOLhyphen"/>cies, as he hath hitherto done, that he may more and more diſcover his real Friends from his pretended ones; and then his Majeſty will
+<pb n="3" facs="tcp:105904:2"/>finde, that thoſe perſons, whom this Scribler terms Meeters in Clubs, at Taverns and other places, are his Majeſties beſt and faithfulleſt Friends he hath; for they meet only to enjoy the Society of one an<g ref="char:EOLhyphen"/>other, and to ſtudy the Preſervation of his Majeſty, the Proteſtant Religion, the Peace and Quiet of the Kingdome, againſt the Attempts and Plots of the Devil and the Pope, and all their Party; who ſtill ſtudy how, and nothing more than how, Ruine and Deſtruction may be brought upon King and People, as this their late Helliſh and Dam<g ref="char:EOLhyphen"/>nable Plot ſufficiently and fully have diſcovered. Though Sir, you, to exaſperate the people, and tell of 41, to put this Plot aſide, ſay, Then comes forth a Plot full of Treaſon and Popery; and is there not juſt cauſe to ſuſpect you to be concerned in it, ſince you write ſo ſlightingly of it, as if there were no reality that there was this Helliſh Popiſh Plot? But you ſay it came forth. So it did, bleſſed be God that it was diſcovered by Dr. <hi>Oates</hi> with others; <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ere none of them. Your Brother <hi>Coleman</hi> and others might y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have been living, if it had not been diſcovered, and we had been in Blood and Confuſion before this day: What may become of us yet, I know not; for I fear the Devil and the Pope, with all their Helliſh party, are ſtill Conſpiring and Plotting againſt the peace of our <hi>Sion;</hi> but God who hath, I hope will ſtill preſerve his Majeſty and poor <hi>England</hi> from all their wicked Deſignes. I do not like your ſlighting expreſ<g ref="char:EOLhyphen"/>ſions, to ſay it came forth; but muſt give you one word more con<g ref="char:EOLhyphen"/>cerning it: It came forth from the Devil firſt, from the Pope next, and thither let it return again, with all thoſe that were Inſtrumental in it, and will not truely repent of it, but labour all they can to ſuther it.</p>
+            <p>Then you ſay, The D. muſt needs be the Foundation of this Dam<g ref="char:EOLhyphen"/>nable Plot. If by your Capital <hi>D.</hi> you mean the Devil, I have already agreed with you; but if you mean by your D. His Royal Highneſs the Duke of <hi>York,</hi> you are a very unworthy man, and deſerve to be pu<g ref="char:EOLhyphen"/>niſhed: For what good Proteſtant, or ſober man, can think the Duke of <hi>York</hi> would ever own ſo Damnable and Helliſh a Plot, being ſo brave a perſon, and having had to his Father the beſt of Kings De<g ref="char:EOLhyphen"/>ceaſed, and to his Brother the beſt of Kings Living, (whom God grant may long Live and Reign over us.) And God preſerve the Diſcoverers, who, as he ſtiles them truely, have been bleſſed Inſtru<g ref="char:EOLhyphen"/>ments to ſave us at this time from the Paw of Antichriſt; though I would not have them (as he jeeringly expreſſes) rever'd as Demigods; but I could wiſh they were better rewarded, as they well deſerve, and I hope they will one day be. Then he tells of a Hurly-burly, which cauſed the King to Diſſolve the Parliament, and to Prorogue them from time to time; but what he means by it, I know not.</p>
+            <p>And 'tis no wonder you ſhould fling a ſtone at Mr. <hi>Marvel</hi>'s Grave, for any whiffling Cur will venture to beard a dead Lion: 'tis well known, that little <hi>Andrew</hi> (as you contemptibly call him) had Wit and Policy enough to ſilence the greateſt Droll and Scribler that ever troubled the Nation; and other Treatiſes that are for the good of the Nation, cannot eſcape your Scurrilous Reflections. And do not theſe Bliſters on your Tongue betray the venome of your heart, and plainly ſhew, you are no true friend to the Church of <hi>England,</hi> but rather a Jeſuite, or a favourer of Popery, ſince you would huſh us to ſleep with
+<pb n="4" facs="tcp:105904:3" rendition="simple:additions"/>apprehenſions that there is no fear of it till our Throats are cut?</p>
+            <p>There are ſeveral other paſſages in your Letter which might deſerve Animadverſions, but by what I have ſaid already, I doubt not but each conſiderate Reader will be ſufficiently informed of your deſign, and ar<g ref="char:EOLhyphen"/>med againſt your wheadling inſinuations: and ſo I ſhall leave you to pur<g ref="char:EOLhyphen"/>ſue your Game, <hi>(But know, in vain is the net ſpread in the preſence of any Bird.)</hi>
+            </p>
+            <p>Now, Sir, I am drawing to a Concluſion, and it may be you will ſay its time. When I firſt read your Letter, I thought it not worth the while to give an Anſwer to it; for <hi>Solomon</hi> ſays, <hi>Anſwer not a fool according to his folly, leſt he be wiſe in his own conceit.</hi> Pardon me, Sir, though I expreſs my ſelf thus freely to you; for I aſſure you, I do not in the leaſt think you to be a Fool, but one that God hath given great Parts and Abilities to, and I wiſh you may have grace to make a good uſe of them, in order to which, I ſhall give you a few cautions by way of advice, and I do it for your good.</p>
+            <p n="1">1. Be ſure you print nothing for time to come to pleaſe the men of the times, and to humour them, that may be diſpleaſing to God; for if you and I, and all men muſt one day give an account of every idle word, yea, of our ſecret thoughts and actions, then you muſt give an account of this you ſcribling Letter, and the ends and grounds you had to make it publick, and I the like for my Anſwer; and then it will be made appear, who aimed moſt at the honour of God, the peace and welfare of the Kingdom, and advancement of the Proteſtant Religion, you or I.</p>
+            <p n="2">2. Print no more for time to come, but what you know to be true, elſe you wrong your ſelf and the Readers, and you muſt give an account for that alſo one day; and write no more in a jeering way under a pretence of reality, in which you ſhew Hypocriſie and Diſſimulation, which you have done in many places in your Letter, though to no purpoſe at all.</p>
+            <p n="3">3. Follow the Advice you give to that Noble Lord, ſtudy to do your own buſineſs, and write no more Letters to ſuch Honourable and wor<g ref="char:EOLhyphen"/>thy perſons: you ſhew great preſumption and ſawcineſs: you think you may write any thing, and to any perſon. Better you had an Imployment in the Penny-Poſt-Office of carrying Letters, than writing any more.</p>
+            <p n="4">4. If you are now of the Church of <hi>Rome,</hi> as I think you are, come away from them to the Church of <hi>England,</hi> which is the beſt Church in the world for Doctrine and Diſcipline; and come away quickly, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or Antichriſt will ſpeedily fall; he hath but three horns left of ten, and one of them begins already to decline and forſake him, yea, to puſh at him: but if you are of the Church of <hi>England</hi> already, declare it really.</p>
+            <p>Sir, I have done, and muſt aſſure you, that I am no affector of Com<g ref="char:EOLhyphen"/>plements, and therefore ſhall not tell you that I am</p>
+            <closer>
+               <signed>Your Servant, Though to my King and Country, and the Proteſtant Religion A faithful Subject and Sincere well-wiſher.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>I</hi> Would have ſet my Name to this my Anſwer, for I am not aſhamed nor afraid to own any paſſage in it; but you not ſetting your Name to your Letter, makes me forbear ſetting mine to my Anſwer.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
